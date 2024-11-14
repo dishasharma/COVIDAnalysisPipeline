@@ -18,3 +18,4 @@ Pipeline includes:
 7. Converting Sam to Bam
 8. Variant calling using VARSCAN.
 9. Asssembly of COV2 reads using MEGAHIT and SPAdes.
+<img width="802" alt="Screenshot 2024-11-14 at 10 15 33" src="https://github.com/user-attachments/assets/3e54cd8c-d09a-42da-94f5-386c84da414c">
