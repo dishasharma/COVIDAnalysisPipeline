@@ -6,6 +6,8 @@ The pipeline also includes SARS-CoV2 variants anad preparing data for phylogeny 
 
 ./run_SE.sh -d <Directory of fastq files> -t <Directory where tools are installed> -r <Human_Reference_Genome.fa> -c <Covid_refernce_genome.fa> -g <GISAID Genome Path> -m <MAO file path> -n <output folder name> -h <help>
 
+./run_PE.sh -d <Directory of fastq files> -t <Directory where tools are installed> -r <Human_Reference_Genome.fa> -c <Covid_refernce_genome.fa> -z <suffix of samples (_R1.fastq.gz/_R2.fastq.gz or _R1.fastq/_R2.fastq) -n <output folder name> -g <GISAID fasta path> -m <mao file> -h <help>
+
 
 Pipeline includes:
 
